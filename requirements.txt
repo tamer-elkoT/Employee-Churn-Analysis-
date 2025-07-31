@@ -6,3 +6,4 @@ shap
 plotly
 matplotlib
 ipython
+seaborn
