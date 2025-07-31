@@ -1,7 +1,10 @@
-
-streamlit 
+streamlit
+numpy
 pandas
-numpy 
 matplotlib
-seaborn 
-sklearn
+seaborn
+shap
+xgboost
+joblib
+scikit-learn
+plotly
