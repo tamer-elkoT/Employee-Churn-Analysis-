@@ -1,9 +1,9 @@
 streamlit
-xgboost
-pandas
+joblib
 numpy
+pandas
 shap
-plotly
 matplotlib
-ipython
 seaborn
+plotly
+xgboost
