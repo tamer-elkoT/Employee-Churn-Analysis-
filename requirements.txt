@@ -1,10 +1,7 @@
 streamlit
-numpy
-pandas
-matplotlib
-seaborn
-shap
 xgboost
-joblib
-scikit-learn
+pandas
+numpy
+shap
 plotly
+ipython
