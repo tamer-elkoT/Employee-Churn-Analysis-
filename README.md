@@ -1,5 +1,6 @@
 ## 📁 Dataset Overview – *Employee Turnover (Churn) Dataset*
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
 
 This dataset provides detailed information about **14,999 employees** and is designed to support **employee churn prediction** – the task of determining whether an employee is likely to leave the company or not.
 
